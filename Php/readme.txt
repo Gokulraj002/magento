@@ -1,7 +1,8 @@
 # E-commerce Project Setup
 
 This project is an e-commerce website where both admins and users can log in. Below are the simple steps to set it up and start using it.
-
+   
+open php folder
 ## 1. Setting Up the Database
 
 To set up the database and create the required tables, visit the following link in your browser:
