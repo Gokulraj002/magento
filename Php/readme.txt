@@ -39,4 +39,4 @@ You can log in as both an admin or a user using the same login information.
 1. **Clone the Project**: First, clone this project to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Gokulraj002/magento.git
